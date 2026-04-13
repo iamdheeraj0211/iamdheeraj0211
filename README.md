@@ -1,17 +1,42 @@
-<h1 align="center">Hi 👋, I'm Dheeraj Deokar</h1>
-<h3 align="center">A passionate Backend developer from Pune, India</h3>
+# Hi, I'm Dheeraj Devkar 👋
+### Full-Stack Backend Architect | Solo Builder | FinTech Specialist
 
-- 🔭 I’m currently working on **Microfinance Project**
+I build scalable backends and enterprise-grade business ecosystems. My focus is on creating high-performance logic for financial systems and industrial ERPs, managing everything from database architecture to cloud infrastructure.
 
-- 🌱 I’m currently learning **React**
+---
 
-- 💬 Ask me about **Python, Django, Django Rest Framework, MySQL**
+## 🏗 Featured Project: Bizznify 🏢
+**Bizznify** is a comprehensive, generic ERP ecosystem designed to streamline operations for manufacturing, transport, and beyond.
 
-- 📫 How to reach me **iamdheeraj0211@gmail.com**
+* **Landing Page:** [www.bizznify.com](https://www.bizznify.com)
+* **Web App:** [erp.bizznify.com](https://erp.bizznify.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Technical Highlights:**
+- **Backend:** High-concurrency Django architecture with complex multi-entity billing logic.
+- **Mobile:** Cross-platform experience built with React Native & Expo.
+- **Infrastructure:** Scaled and maintained on AWS (EC2, RDS, S3) with precision resource optimization.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python (Backend in my sleep), JavaScript
+- **Frameworks:** Django, Django REST Framework, React Native
+- **FinTech:** Automated financial data analysis, API integrations, and quantitative logic.
+- **Infrastructure:** AWS DevOps, Linux Server Administration, Performance Tuning.
+
+---
+
+## 💡 Philosophy
+As a **Solo Builder**, I believe in owning the entire lifecycle of a product. Whether it's optimizing server memory on a t3.micro or designing a multi-tenant database schema, I focus on building tools that solve real business problems.
+
+---
+
+## 📈 Interests
+- **FinTech Systems:** Developing high-precision tools for market data analysis.
+- **Architecture:** Designing systems that balance performance with scalability.
+
+---
+
+## 📫 Let's Connect
+- 📍 Based in Pune
+- 💻 "Specializing in the backends that power the front end of business."
