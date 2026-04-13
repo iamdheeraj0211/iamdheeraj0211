@@ -1,4 +1,4 @@
-# Hi, I'm Dheeraj Devkar 👋
+# Hi, I'm Dheeraj Deokar 👋
 ### Full-Stack Backend Architect | Solo Builder | FinTech Specialist
 
 I build scalable backends and enterprise-grade business ecosystems. My focus is on creating high-performance logic for financial systems and industrial ERPs, managing everything from database architecture to cloud infrastructure.
@@ -19,8 +19,9 @@ I build scalable backends and enterprise-grade business ecosystems. My focus is 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python (Backend in my sleep), JavaScript
-- **Frameworks:** Django, Django REST Framework, React Native
+- **Backend:** Python / Django REST Framework
+- **Web & Mobile:** React.js / React Native & Expo
+- **DevOps:** AWS (EC2, RDS, S3)
 - **FinTech:** Automated financial data analysis, API integrations, and quantitative logic.
 - **Infrastructure:** AWS DevOps, Linux Server Administration, Performance Tuning.
 
