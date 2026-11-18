@@ -18,6 +18,19 @@ I build scalable backends and enterprise-grade business ecosystems. My focus is 
 
 ---
 
+## ⚡ Also Built: EarlyApply 🔔
+**EarlyApply** is a free Chrome and Edge extension that helps job seekers be early applicants on LinkedIn Jobs.
+
+* **Website and guides:** [iamdheeraj0211.github.io/earlyapply](https://iamdheeraj0211.github.io/earlyapply/)
+* **Chrome Web Store:** [Add to Chrome](https://chromewebstore.google.com/detail/mdnefacoafkpdmbnjdaijlgahjnebgbo) · **Microsoft Edge:** [Add to Edge](https://microsoftedge.microsoft.com/addons/detail/hnjfgommfnihplmlicjdfkheokdmnnep)
+
+**Highlights:**
+- **Job Radar:** a desktop alert when a new job matches your search.
+- **Fresh jobs first:** see jobs from the last 15 minutes to 12 hours, and hide promoted and reposted jobs.
+- **Private by design:** no account, no server, everything stays in the browser.
+
+---
+
 ## 🛠 Tech Stack
 - **Backend:** Python / Django REST Framework
 - **Web & Mobile:** React.js / React Native & Expo
